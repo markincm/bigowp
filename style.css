@@ -1,0 +1,11 @@
+/*
+Theme Name: BIGO Design
+Theme URI: http://www.bigodesign.com.br
+Description: Tema desenvolvido por BIGO Design.
+Version: 1.0
+Author: Lincoln Lemos
+*/
+
+@import "css/bootstrap-responsive.min.css";
+@import "css/bootstrap.min.css";
+@import "css/layout.css";
