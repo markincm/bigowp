@@ -6,6 +6,5 @@ Version: 1.0
 Author: Lincoln Lemos
 */
 
-@import "css/bootstrap-responsive.min.css";
-@import "css/bootstrap.min.css";
-@import "css/layout.css";
+
+@import "assets/css/bootstrap.css";
